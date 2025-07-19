@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for phone input */
+.PhoneInput {
+  @apply w-full;
+}
+
+.PhoneInputCountry {
+  @apply bg-transparent border-r border-green-500/30 pr-3;
+}
+
+.PhoneInputCountrySelect {
+  @apply bg-transparent text-white border-none outline-none;
+}
+
+.PhoneInputCountrySelectArrow {
+  @apply text-green-400;
+}
+
+.PhoneInputInput {
+  @apply bg-transparent border-none text-white placeholder-gray-400 outline-none w-full;
+}
+
+.PhoneInputInput:focus {
+  @apply ring-0 border-none;
+}
+
+/* Matrix digital rain animation */
+@keyframes matrixRain {
+  0% {
+    transform: translateY(-100px);
+  }
+  100% {
+    transform: translateY(100vh);
+  }
+}
