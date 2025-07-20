@@ -1052,11 +1052,9 @@ export default function LeadQuizApp() {
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-6">
             {/* Logo */}
-            <img 
-              src="/Zion art.png" 
-              alt="Zion Art Logo" 
-              className="w-28 h-28 object-contain mr-6 filter drop-shadow-lg"
-            />
+            <div className="w-28 h-28 mr-6 flex items-center justify-center bg-gradient-to-br from-green-400 via-blue-500 to-purple-600 rounded-full shadow-lg">
+              <span className="text-4xl font-bold text-white">🌿</span>
+            </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 bg-clip-text text-transparent drop-shadow-lg">
               Empowered by Nature
             </h1>
