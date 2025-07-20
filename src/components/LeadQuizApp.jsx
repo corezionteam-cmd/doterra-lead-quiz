@@ -8,10 +8,14 @@ import 'react-phone-number-input/style.css';
 const translations = {
   en: {
     langName: "English",
-    subtitle: "💧 Discover your path to wellness and destiny, the natural way.",
+    subtitle: '🔥 "Turn your passion for natural and healthy living into a powerful mission."',
     quotes: {
       mission: '🔥 "Turn your passion for natural living into a powerful mission."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Your wellness journey starts here – backed by nature, led by you!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "What's your name & best email address?",
@@ -63,10 +67,14 @@ const translations = {
 
   de: {
     langName: "Deutsch",
-    subtitle: "💧 Entdecke deinen Weg zum Wohlbefinden und Deiner Bestimmung auf natürliche Weise.",
+    subtitle: '🔥 "Verwandle deine Leidenschaft für natürliches und gesundes Leben in eine kraftvolle Mission."',
     quotes: {
       mission: '🔥 "Verwandle deine Leidenschaft für natürliches Leben in eine kraftvolle Mission."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Deine Wellness-Reise beginnt hier – unterstützt von der Natur, geführt von dir!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Wie heißt du und was ist deine beste E-Mail-Adresse?",
@@ -118,10 +126,14 @@ const translations = {
 
   hu: {
     langName: "Magyar",
-    subtitle: "💧 Fedezd fel a jólét és sorsod útját a természetes módon.",
+    subtitle: '🔥 "Alakítsd át a természetes és egészséges élet iránti szenvedélyedet erős küldetéssé."',
     quotes: {
       mission: '🔥 "Alakítsd át a természetes élet iránti szenvedélyedet erős küldetéssé."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "A wellness utad itt kezdődik – a természet támogatásával, te vezeted!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Mi a neved és mi a legjobb email címed?",
@@ -173,10 +185,14 @@ const translations = {
 
   it: {
     langName: "Italiano",
-    subtitle: "💧 Scopri il tuo percorso verso il benessere e il destino, in modo naturale.",
+    subtitle: '🔥 "Trasforma la tua passione per la vita naturale e sana in una potente missione."',
     quotes: {
       mission: '🔥 "Trasforma la tua passione per la vita naturale in una potente missione."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Il tuo viaggio verso il benessere inizia qui – sostenuto dalla natura, guidato da te!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Come ti chiami e qual è la tua migliore email?",
@@ -228,10 +244,14 @@ const translations = {
 
   es: {
     langName: "Español",
-    subtitle: "💧 Descubre tu camino hacia el bienestar y el destino, de forma natural.",
+    subtitle: '🔥 "Convierte tu pasión por la vida natural y saludable en una misión poderosa."',
     quotes: {
       mission: '🔥 "Convierte tu pasión por la vida natural en una misión poderosa."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "¡Tu viaje hacia el bienestar comienza aquí – respaldado por la naturaleza, dirigido por ti!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "¿Cuál es tu nombre y mejor dirección de correo electrónico?",
@@ -283,10 +303,14 @@ const translations = {
 
   fr: {
     langName: "Français",
-    subtitle: "💧 Découvrez votre chemin vers le bien-être et le destin, de manière naturelle.",
+    subtitle: '🔥 "Transformez votre passion pour la vie naturelle et saine en une mission puissante."',
     quotes: {
       mission: '🔥 "Transformez votre passion pour la vie naturelle en une mission puissante."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Votre voyage vers le bien-être commence ici – soutenu par la nature, dirigé par vous !",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Quel est votre nom et votre meilleure adresse e-mail ?",
@@ -338,10 +362,14 @@ const translations = {
 
   cs: {
     langName: "Čeština",
-    subtitle: "💧 Objevte svou cestu k pohodě a osudu přirozeným způsobem.",
+    subtitle: '🔥 "Proměňte svou vášeň pro přirozený a zdravý život v mocnou misi."',
     quotes: {
       mission: '🔥 "Proměňte svou vášeň pro přirozený život v mocnou misi."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Vaše wellness cesta začíná zde – podporována přírodou, vedena vámi!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Jaké je vaše jméno a nejlepší e-mailová adresa?",
@@ -393,10 +421,14 @@ const translations = {
 
   sk: {
     langName: "Slovenčina",
-    subtitle: "💧 Objavte svoju cestu k pohode a osudu prirodzeným spôsobom.",
+    subtitle: '🔥 "Premenite svoju vášeň pre prirodzený a zdravý život na mocnú misiu."',
     quotes: {
       mission: '🔥 "Premenite svoju vášeň pre prirodzený život na mocnú misiu."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Vaša wellness cesta začína tu – podporovaná prírodou, vedená vami!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Aké je vaše meno a najlepšia e-mailová adresa?",
@@ -448,10 +480,14 @@ const translations = {
 
   pl: {
     langName: "Polski",
-    subtitle: "💧 Odkryj swoją ścieżkę do dobrego samopoczucia i przeznaczenia w naturalny sposób.",
+    subtitle: '🔥 "Przekształć swoją pasję do naturalnego i zdrowego życia w potężną misję."',
     quotes: {
       mission: '🔥 "Przekształć swoją pasję do naturalnego życia w potężną misję."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Twoja podróż do dobrego samopoczucia zaczyna się tutaj – wspierana przez naturę, prowadzona przez Ciebie!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Jak masz na imię i jaki jest Twój najlepszy adres e-mail?",
@@ -503,10 +539,14 @@ const translations = {
 
   sl: {
     langName: "Slovenščina",
-    subtitle: "💧 Odkrijte svojo pot do dobrega počutja in usode na naraven način.",
+    subtitle: '🔥 "Svojo strast do naravnega in zdravega življenja spremenite v močno misijo."',
     quotes: {
       mission: '🔥 "Svojo strast do naravnega življenja spremenite v močno misijo."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Vaše potovanje do dobrega počutja se začne tukaj – podprto z naravo, vodi vas!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Kako se imenujete in kakšen je vaš najboljši e-poštni naslov?",
@@ -558,10 +598,14 @@ const translations = {
 
   el: {
     langName: "Ελληνικά",
-    subtitle: "💧 Ανακαλύψτε το μονοπάτι σας προς την ευεξία και το πεπρωμένο, με φυσικό τρόπο.",
+    subtitle: '🔥 "Μετατρέψτε το πάθος σας για τη φυσική και υγιεινή ζωή σε μια ισχυρή αποστολή."',
     quotes: {
       mission: '🔥 "Μετατρέψτε το πάθος σας για τη φυσική ζωή σε μια ισχυρή αποστολή."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Το ταξίδι σας προς την ευεξία ξεκινά εδώ – υποστηριζόμενο από τη φύση, καθοδηγούμενο από εσάς!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Ποιο είναι το όνομά σας και η καλύτερη διεύθυνση ηλεκτρονικού ταχυδρομείου σας;",
@@ -613,10 +657,14 @@ const translations = {
 
   ja: {
     langName: "日本語",
-    subtitle: "💧 自然な方法で健康と運命への道を発見しましょう。",
+    subtitle: '🔥 "自然で健康的な生活への情熱を力強い使命に変えましょう。"',
     quotes: {
       mission: '🔥 "自然な生活への情熱を力強い使命に変えましょう。"',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "あなたのウェルネスへの旅はここから始まります – 自然に支えられ、あなたが導きます！",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "お名前と最適なメールアドレスは何ですか？",
@@ -668,10 +716,14 @@ const translations = {
 
   zh: {
     langName: "中文",
-    subtitle: "💧 以自然的方式发现您通往健康和命运的道路。",
+    subtitle: '🔥 "将您对自然和健康生活的热情转化为强大的使命。"',
     quotes: {
       mission: '🔥 "将您对自然生活的热情转化为强大的使命。"',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "您的健康之旅从这里开始 – 由自然支持，由您引领！",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "您的姓名和最佳电子邮件地址是什么？",
@@ -723,10 +775,14 @@ const translations = {
 
   ko: {
     langName: "한국어",
-    subtitle: "💧 자연스러운 방식으로 건강과 운명으로 가는 길을 발견하세요.",
+    subtitle: '🔥 "자연스럽고 건강한 삶에 대한 열정을 강력한 사명으로 바꾸세요."',
     quotes: {
       mission: '🔥 "자연스러운 삶에 대한 열정을 강력한 사명으로 바꾸세요."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "당신의 웰니스 여정이 여기서 시작됩니다 – 자연이 지원하고, 당신이 이끕니다!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "귀하의 이름과 최고의 이메일 주소는 무엇입니까?",
@@ -778,10 +834,14 @@ const translations = {
 
   pt: {
     langName: "Português",
-    subtitle: "💧 Descubra seu caminho para o bem-estar e destino, de forma natural.",
+    subtitle: '🔥 "Transforme sua paixão pela vida natural e saudável em uma missão poderosa."',
     quotes: {
       mission: '🔥 "Transforme sua paixão pela vida natural em uma missão poderosa."',
       tagline: '🌸 "Empowered by Nature. Designed for You."'
+    },
+    footer: {
+      journey: "Sua jornada de bem-estar começa aqui – apoiada pela natureza, liderada por você!",
+      empowered: "Empowered by Nature. Designed for You."
     },
     questions: {
       nameEmail: "Qual é o seu nome e melhor endereço de e-mail?",
@@ -1373,13 +1433,57 @@ export default function LeadQuizApp() {
           </div>
 
           {/* Inspirational Quotes */}
-          <div className="mt-12 text-center space-y-4">
+          <div className="mt-4 text-center space-y-4">
             <p className="text-green-400 text-lg font-medium">
               {t.quotes.mission}
             </p>
             <p className="text-blue-400 text-lg font-medium">
               {t.quotes.tagline}
             </p>
+          </div>
+
+          {/* Footer Text */}
+          <div className="mt-3 text-center space-y-6 pb-8">
+            {/* Decorative line */}
+            <div className="flex items-center justify-center space-x-4">
+              <div className="w-16 h-px bg-gradient-to-r from-transparent via-green-400 to-transparent"></div>
+              <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
+              <div className="w-16 h-px bg-gradient-to-r from-transparent via-green-400 to-transparent"></div>
+            </div>
+            
+            {/* Main journey text */}
+            <div className="relative">
+              <p className="text-white text-lg font-bold leading-tight drop-shadow-2xl bg-gradient-to-r from-white via-green-100 to-white bg-clip-text text-transparent">
+                {t.footer.journey}
+              </p>
+              {/* Subtle glow effect */}
+              <div className="absolute inset-0 bg-gradient-to-r from-green-400/20 via-transparent to-green-400/20 blur-xl -z-10"></div>
+            </div>
+            
+            {/* Empowered text with special styling */}
+            <div className="relative">
+              <p className="text-purple-300 text-lg font-medium drop-shadow-lg tracking-wide">
+                {t.footer.empowered}
+              </p>
+              {/* Animated underline */}
+              <div className="mt-2 w-24 h-0.5 bg-gradient-to-r from-purple-400 to-pink-400 mx-auto rounded-full animate-pulse"></div>
+            </div>
+            
+            {/* Bottom decorative elements */}
+            <div className="flex items-center justify-center space-x-6">
+              <div className="w-1 h-8 bg-gradient-to-b from-transparent via-green-400 to-transparent rounded-full"></div>
+              <div className="w-1 h-6 bg-gradient-to-b from-transparent via-purple-400 to-transparent rounded-full"></div>
+              <div className="w-1 h-8 bg-gradient-to-b from-transparent via-green-400 to-transparent rounded-full"></div>
+            </div>
+            
+            {/* Logo */}
+            <div className="mt-8 flex justify-center">
+              <img 
+                src="/zion art.png" 
+                alt="Zion Art Logo" 
+                className="w-32 h-32 object-contain filter drop-shadow-lg opacity-80 hover:opacity-100 transition-opacity duration-300"
+              />
+            </div>
           </div>
         </div>
       </div>
